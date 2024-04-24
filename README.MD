@@ -40,4 +40,4 @@ npm install
 npm run dev
 ```
 
-Faça as requisições via Insomnia ou pelo p´roprio banco de dados e aproveite! :)
+Faça as requisições via Insomnia ou pelo próprio banco de dados e aproveite! :)
