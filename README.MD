@@ -13,7 +13,7 @@ Uma simples API que possibilita a criação, atualização e a exclusão de usu�
 ### 1. Clonar o repositório
 
 ```bash
-git clone
+git clone https://github.com/MariaRita011/atividadeBackend.git
 ```
 
 ### 2. Instalar as dependências
